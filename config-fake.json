@@ -1,0 +1,12 @@
+# this is a demo config file. add the api keys as required
+# the actual config file must be called config.json
+
+{
+
+"pinecone_api_key" :"",
+"pinecone_environment" : "us-central1-gcp",
+"openai_organization" : "",
+"openai_api_key": "",
+"file_path": "case_studies.txt"
+	
+}
